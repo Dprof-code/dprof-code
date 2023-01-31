@@ -20,11 +20,11 @@ I am currently a student :boy: pursuing BTech :mortar_board: in Information Tech
 
 ## My Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=dprof-code&show_icons=true&theme=highcontrast&hide_title=true" />
+<a height="145px" href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=dprof-code&show_icons=true&theme=highcontrast&hide_title=true" />
 </a>
-<a href="https://git.io/streak-stats">
-  <img height="200px" src="https://streak-stats.demolab.com?user=dprof-code&theme=python-dark&hide_title=true" />
+<a height="145px" href="https://git.io/streak-stats">
+  <img height="100%" src="https://streak-stats.demolab.com?user=dprof-code&theme=python-dark&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprof-code&layout=compact&theme=highcontrast&hide_title=true" />
