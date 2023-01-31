@@ -6,7 +6,7 @@ I am currently a student :boy: pursuing BTech :mortar_board: in Information Tech
 - 🌱 I’m currently learning frontend web technologies.
 - 👯 I’m open to collaborating on startup projects, hackathons and open source projects.
 - 🤔 I’m looking to connect with more developers and great minds that believe in  solving world problems.
-- 💬 Ask me about Web Developement, Python, Software Engineering, Cryptocurrency, Blockchain Technology.
+- 💬 Ask me about Web Developement, Python, Careers in Tech, Cryptocurrency, Blockchain Technology.
 - ❤️ I am a Lover and Believer of Jesus Christ.
 - 📫 How to reach me: 
 <a href="https://github.com/Dprof-code"><img alt="olawale_adedamola | Github" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
@@ -20,6 +20,6 @@ I am currently a student :boy: pursuing BTech :mortar_board: in Information Tech
 
 ## My Stats
 ![Dprof's GitHub stats](https://github-readme-stats.vercel.app/api?username=dprof-code&show_icons=true&theme=python-dark)
-[![Dprof's GitHub Streak](https://streak-stats.demolab.com?user=dprof-code&theme=high-contrast)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dprof-code&layout=compact&theme=high-contrast)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dprof&theme=high-contrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Dprof's GitHub Streak](https://streak-stats.demolab.com?user=dprof-code&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dprof-code&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dprof&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
