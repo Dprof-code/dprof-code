@@ -1,4 +1,4 @@
-## Hi there 👋 I am Adedamola Olawale
+### Hi there 👋 I am Adedamola Olawale
 
 I am currently a student :boy: pursuing BTech :mortar_board: in Information Technology at Federal University of Technology Akure(FUTA) :school:, frontend developer👨‍💻, technical writer🖊️ and also an aspiring Software Engineer👨‍💻🛠️. With a strong passion for technology, I actively engage in both personal and professional projects to hone my skills and stay up to date in the industry. On my GitHub profile, you can find examples of my work, including my current projects and contributions to open-source communities.
 
@@ -16,3 +16,7 @@ I am currently a student :boy: pursuing BTech :mortar_board: in Information Tech
         
 - 😄 Pronouns: I identify as He, His, Him
 - ⚡ Fun fact: I love food.
+
+
+## My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dprof-code&theme=python-dark)](https://git.io/streak-stats)
