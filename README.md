@@ -30,5 +30,5 @@ I am currently a student :boy: pursuing BTech :mortar_board: in Information Tech
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprof-code&layout=compact&theme=highcontrast&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[https://streak-stats.demolab.com?user=dprof-code&theme=python-dark&hide_title=true](https://github-readme-stats.vercel.app/api/wakatime?username=dprof&theme=monokai&hide_title=true)" />
+  <img align="center" src="https://streak-stats.demolab.com?user=dprof-code&theme=python-dark&hide_title=true](https://github-readme-stats.vercel.app/api/wakatime?username=dprof&theme=monokai&hide_title=true)" />
 </a>
