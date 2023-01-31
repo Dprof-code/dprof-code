@@ -19,4 +19,7 @@ I am currently a student :boy: pursuing BTech :mortar_board: in Information Tech
 
 
 ## My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dprof-code&theme=python-dark)](https://git.io/streak-stats)
+![Dprof's GitHub stats](https://github-readme-stats.vercel.app/api?username=dprof-code&show_icons=true&theme=python-dark)
+[![Dprof's GitHub Streak](https://streak-stats.demolab.com?user=dprof-code&theme=python-dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dprof-code&layout=compact&theme=python-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dprof&theme=python-dark)](https://github.com/anuraghazra/github-readme-stats)
