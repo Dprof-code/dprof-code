@@ -27,5 +27,6 @@ I am currently a student :boy: pursuing BTech :mortar_board: in Information Tech
   <img height="145em" src="https://streak-stats.demolab.com?user=dprof-code&theme=python-dark&hide_title=true&hide_border=true" style="max-width: 100%;"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="129.6em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprof-code&layout=compact&theme=highcontrast&langs_count=10&hide_title=true&hide_border=true" style="max-width: 100%;/>
+  <img height="129.6em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprof-code&amp;layout=compact&amp;theme=highcontrast&langs_count=10&amp;hide_title=true&amp;hide_border=true" style="max-width: 100%;">
 </a>
+
