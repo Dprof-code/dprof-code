@@ -3,7 +3,7 @@
 I am currently a student :boy: pursuing BTech :mortar_board: in Information Technology at Federal University of Technology Akure(FUTA) :school:, frontend developer👨‍💻, technical writer🖊️ and also an aspiring Software Engineer👨‍💻🛠️. With a strong passion for technology, I actively engage in both personal and professional projects to hone my skills and stay up to date in the industry. On my GitHub profile, you can find examples of my work, including my current projects and contributions to open-source communities.
 
 - 🔭 I’m currently working on various freelance and portfolio projects.
-- 🔭 I am currently a student in the (ALX Software Engineering Program)[https://www.alxafrica.com/software-engineering-2022/] Cohort 12.
+- 🔭 I am currently a student in the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering-2022/) Cohort 12.
 - 🌱 I’m currently learning frontend web technologies.
 - 👯 I’m open to collaborating on startup projects, hackathons and open source projects.
 - 🤔 I’m looking to connect with more developers and great minds that believe in  solving world problems.
