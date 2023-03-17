@@ -22,6 +22,9 @@ I am currently a student :boy: pursuing BTech :mortar_board: in Information Tech
 ## My Stats
 
 [![wakatime](https://wakatime.com/badge/user/255a1e9f-e652-4b34-b3d8-07ca96938d4f.svg)](https://wakatime.com/@255a1e9f-e652-4b34-b3d8-07ca96938d4f)
+        
+![](https://komarev.com/ghpvc/?username=dprof-code)
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dprof-code&show_icons=true&theme=highcontrast&hide_title=true&hide_border=true" style="max-width: 100%;" />
 </a>
