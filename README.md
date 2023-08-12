@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Adedamola Olawale
 
-I am currently a student :boy: pursuing BTech :mortar_board: in Information Technology at Federal University of Technology Akure(FUTA) :school:, frontend developer👨‍💻, technical writer🖊️ and also an aspiring Software Engineer👨‍💻🛠️. With a strong passion for technology, I actively engage in both personal and professional projects to hone my skills and stay up to date in the industry. On my GitHub profile, you can find examples of my work, including my current projects and contributions to open-source communities.
+I am currently a student :boy: pursuing BTech :mortar_board: in [Information Technology](https://ift.futa.edu.ng/) at [Federal University of Technology Akure(FUTA)](https://futa.edu.ng/) :school:, frontend developer👨‍💻, technical writer🖊️ and also an aspiring Software Engineer👨‍💻🛠️. With a strong passion for technology, I actively engage in both personal and professional projects to hone my skills and stay up to date in the industry. On my GitHub profile, you can find examples of my work, including my current projects and contributions to open-source communities.
 
 - 🔭 I’m currently working on various freelance and portfolio projects.
 - 👨‍💻 I'm currently a Software Engineering Student at [ALX](https://www.alxafrica.com/software-engineering/).
