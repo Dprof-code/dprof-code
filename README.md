@@ -1,13 +1,14 @@
 ### Hi there 👋 I am Adedamola Olawale
 
-I am currently a student :boy: pursuing BTech :mortar_board: in [Information Technology](https://ift.futa.edu.ng/) at [Federal University of Technology Akure(FUTA)](https://futa.edu.ng/) :school:, frontend developer👨‍💻, technical writer🖊️ and also an aspiring Software Engineer👨‍💻🛠️. With a strong passion for technology, I actively engage in both personal and professional projects to hone my skills and stay up to date in the industry. On my GitHub profile, you can find examples of my work, including my current projects and contributions to open-source communities.
+
+I am a passionate Web and Software Developer with a strong interest in technology. I actively contribute to open-source communities and enjoy working on innovative projects. Check out my GitHub profile for examples of my work and projects!
 
 - 🔭 I’m currently working on various freelance and portfolio projects.
-- 👨‍💻 I'm currently a Software Engineering Student at [ALX](https://www.alxafrica.com/software-engineering/).
-- 🌱 I’m currently learning frontend web technologies.
+- 👨‍💻 I'm a Software Engineering Intern at [ALX](https://www.alxafrica.com/software-engineering/).
+- 🌱 I’m building projects with usecases with frontend and backend web technologies.
 - 👯 I’m open to collaborating on startup projects, hackathons and open source projects.
-- 🤔 I’m looking to connect with more developers and great minds that believe in  solving world problems.
-- 💬 Ask me about Web Developement, Python, Careers in Tech, Cryptocurrency, Blockchain Technology.
+- 🤔 I’m looking to connect with more developers and great minds that believe in solving world problems.
+- 💬 Ask me about Web Developement, Software Development, Careers in Tech, Cryptocurrency, Blockchain Technology.
 - ❤️ I am a Lover and Believer of Jesus Christ.
 - 📫 How to reach me: 
 <a href="https://github.com/Dprof-code"><img alt="olawale_adedamola | Github" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
