@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I am Adedamola Olawale.<br>I am a passionate Web and Software Developer with a strong interest in technology. I actively contribute to open-source communities and enjoy working on innovative projects. Check out my GitHub profile for examples of my work and projects!<br><br>🔭 I’m currently working on various freelance and portfolio projects.<br><br>👨‍💻 I'm on the look out for Software Engineering and Web Development Internship roles.<br><br>🌱 I’m building projects with real-life usecases with frontend and backend web technologies.<br><br>👯 I’m open to collaborating on startup projects, hackathons and open source projects.<br><br>🤔 I’m looking to connect with more developers and great minds that believe in providing solutions with Tech.<br><br>💬 Ask me about Web Development, Software Development, Careers in Tech, Cryptocurrency, Blockchain Technology.<br><br>❤️ I am a Lover and Believer of Jesus Christ.
+Hi there 👋 I am Adedamola Olawale.<br>I am a CS Grad and a passionate Web Developer with a strong interest in technology. I actively contribute to open-source communities and enjoy working on innovative projects. Check out my GitHub profile for examples of my work and projects!<br><br>🔭 I’m currently working on various freelance and portfolio projects.<br><br>👨‍💻 I'm on the look out for Software Engineering and Web Development Internship roles.<br><br>🌱 I’m building projects with real-life usecases with frontend and backend web technologies.<br><br>👯 I’m open to collaborating on startup projects, hackathons and open source projects.<br><br>🤔 I’m looking to connect with more developers and great minds that believe in providing solutions with Tech.<br><br>💬 Ask me about Web Development, Software Development, Careers in Tech, Cryptocurrency, Blockchain Technology.<br><br>❤️ I am a Lover and Believer of Jesus Christ.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,6 @@ Hi there 👋 I am Adedamola Olawale.<br>I am a passionate Web and Software Deve
 [![GitHub Streak](https://github-readme-streak-stats-blush-eight.vercel.app?user=Dprof-code&theme=neon-dark)](https://git.io/streak-stats)
 ![Dprof's GitHub stats](https://github-readme-stats-three-indol-81.vercel.app/api?username=Dprof-code&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats-three-indol-81.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Dprof's WakaTime stats](https://github-readme-stats-three-indol-81.vercel.app/api/wakatime?username=Dprof)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dprof-code&theme=solarized-dark&no-frame=false&no-bg=true&margin-w=4)
