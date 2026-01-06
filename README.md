@@ -10,9 +10,6 @@ Hi there 👋 I am Adedamola Olawale.<br>I am a passionate Web and Software Deve
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-blush-eight.vercel.app?user=Dprof-code&theme=neon-dark)](https://git.io/streak-stats)
 ![Dprof's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dprof-code&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=dprof-code&theme=solarized-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dprof-code&theme=solarized-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dprof-code&theme=solarized-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dprof-code&theme=solarized-dark&no-frame=false&no-bg=true&margin-w=4)
