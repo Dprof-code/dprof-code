@@ -12,12 +12,13 @@ Hi there 👋 I am Adedamola Olawale.<br>I am a CS Grad and a passionate Web Dev
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-    <img src="https://github-readme-streak-stats-blush-eight.vercel.app?user=Dprof-code&theme=neon-dark" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats-three-indol-81.vercel.app/api?username=Dprof-code&show_icons=true&theme=dark" alt="Dprof's GitHub stats"/>
+  <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 1.5rem;">
+    <!-- Streak -->
+    <img src="https://github-readme-streak-stats-blush-eight.vercel.app?user=Dprof-code&theme=neon-dark" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-three-indol-81.vercel.app/api?username=Dprof-code&show_icons=true&theme=dark" alt="Dprof's GitHub stats" />
+    <img src="https://github-readme-stats-three-indol-81.vercel.app/api/top-langs/?username=Dprof-code&theme=dark&card_width=500&langs_count=5" alt="Top Languages" />
   </div>
 </div>
-[![Top Langs](https://github-readme-stats-three-indol-81.vercel.app/api/top-langs/?username=Dprof-code&theme=dark&card_width=500&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
