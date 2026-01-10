@@ -10,21 +10,13 @@ Hi there 👋 I am Adedamola Olawale.<br>I am a CS Grad and a passionate Web Dev
 
 
 ## 📊 GitHub Stats:
+
 [![GitHub Streak](https://github-readme-streak-stats-blush-eight.vercel.app?user=Dprof-code&theme=neon-dark)](https://git.io/streak-stats)
 ![Dprof's GitHub stats](https://github-readme-stats-three-indol-81.vercel.app/api?username=Dprof-code&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats-three-indol-81.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dprof-code&theme=solarized-dark&no-frame=false&no-bg=true&margin-w=4)
+[![Top Langs](https://github-readme-stats-three-indol-81.vercel.app/api/top-langs/?username=Dprof-code&theme=dark&card_width=500&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dprof-code&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=dprof-code&icon=2&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@dprof-code) 
